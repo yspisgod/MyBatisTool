@@ -1,0 +1,6 @@
+本程序需要运行需要有 jdk8 环境
+bat脚本中的命令为 ：C:\Environment\Jdk1.8\bin\java.exe     请更换为您jdk8目录下bin文件中的java.exe路径
+		-jar 
+		F:\MyBatisTool\mybatis-generator-gui.jar  请更换为您下载本文件下的mybatis-generator-gui.jar的绝对路径
+
+这份软件由  俞少鹏  从 https://github.com/zouzg/mybatis-generator-gui 下载打包为.jar文件。
